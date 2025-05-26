@@ -1,0 +1,177 @@
+[
+  {
+    "trigger": "I\u2019ve had to explain this multiple times.",
+    "emotion": "Frustration + disbelief",
+    "advice": "Acknowledge their effort. Offer a new direction.",
+    "tone": "Focused, affirming",
+    "cue": "I understand \u2014 and I appreciate your patience. I\u2019ll take a different approach now."
+  },
+  {
+    "trigger": "Why was I billed again?",
+    "emotion": "Suspicion + confusion",
+    "advice": "Stay factual. Clarify without defensiveness.",
+    "tone": "Calm, professional",
+    "cue": "Let me explain the charge and how we can resolve it if needed."
+  },
+  {
+    "trigger": "This is ridiculous. I want a manager.",
+    "emotion": "Anger + demand for escalation",
+    "advice": "Acknowledge frustration. Offer a path forward or connect to escalation.",
+    "tone": "Composed, respectful",
+    "cue": "I understand your frustration \u2014 I can either assist you directly or escalate this for you right now."
+  },
+  {
+    "trigger": "You\u2019re not helping at all.",
+    "emotion": "Disappointment + criticism",
+    "advice": "Shift tone, show solution-oriented mindset.",
+    "tone": "Clear, assertive",
+    "cue": "I hear you \u2014 let\u2019s reset and solve this together step-by-step."
+  },
+  {
+    "trigger": "Why does this keep happening?",
+    "emotion": "Exasperation + confusion",
+    "advice": "Explain the root cause. Show ownership.",
+    "tone": "Transparent, confident",
+    "cue": "Great question \u2014 here\u2019s why this might be recurring, and what I\u2019ll do differently now."
+  },
+  {
+    "trigger": "Do you even know what you\u2019re doing?",
+    "emotion": "Doubt + frustration",
+    "advice": "Rebuild trust with calm, evidence, or senior help.",
+    "tone": "Reassuring, composed",
+    "cue": "That\u2019s a fair concern \u2014 let me walk you through this step-by-step or involve someone senior if needed."
+  },
+  {
+    "trigger": "I\u2019ve tried everything and nothing works.",
+    "emotion": "Defeat + exhaustion",
+    "advice": "Skip repeated steps. Offer a new approach.",
+    "tone": "Understanding, proactive",
+    "cue": "Sounds like you've been through a lot \u2014 let\u2019s try something new that we haven\u2019t done yet."
+  },
+  {
+    "trigger": "Last time someone fixed it for me immediately.",
+    "emotion": "Comparison + expectation",
+    "advice": "Acknowledge previous experience. Avoid defense.",
+    "tone": "Balanced, confident",
+    "cue": "I\u2019m glad it worked smoothly last time \u2014 I\u2019ll aim for the same or better now."
+  },
+  {
+    "trigger": "Your support is useless.",
+    "emotion": "Hostility + hopelessness",
+    "advice": "Don\u2019t take it personally. Show action, not apology.",
+    "tone": "Unshaken, calm",
+    "cue": "I'm here to turn that around \u2014 let me show you exactly how I\u2019ll fix it."
+  },
+  {
+    "trigger": "I\u2019ve been on hold forever.",
+    "emotion": "Frustration + wasted time",
+    "advice": "Validate time lost. Move quickly.",
+    "tone": "Efficient, focused",
+    "cue": "Thanks for your patience \u2014 I\u2019ll get this sorted right away."
+  },
+  {
+    "trigger": "No one ever reads the notes.",
+    "emotion": "Annoyance + distrust",
+    "advice": "Prove you\u2019ve read and understood them. Break the pattern.",
+    "tone": "Respectful, proactive",
+    "cue": "I\u2019ve reviewed your history, and here\u2019s what we\u2019ll do differently this time."
+  },
+  {
+    "trigger": "This keeps happening over and over.",
+    "emotion": "Pattern frustration",
+    "advice": "Explain steps to break the cycle.",
+    "tone": "Reassuring, methodical",
+    "cue": "You're right \u2014 and I\u2019m going to stop that from happening again by doing X."
+  },
+  {
+    "trigger": "It\u2019s working now, but I still don\u2019t get what was wrong.",
+    "emotion": "Curiosity + mild concern",
+    "advice": "Explain clearly, don\u2019t brush off.",
+    "tone": "Patient, informative",
+    "cue": "That\u2019s fair \u2014 the issue was likely caused by X. I\u2019m happy to explain more if you\u2019d like."
+  },
+  {
+    "trigger": "I don\u2019t feel heard.",
+    "emotion": "Disconnection",
+    "advice": "Reflect and validate. Re-engage clearly.",
+    "tone": "Warm, direct",
+    "cue": "Thanks for saying that \u2014 I hear you, and here\u2019s how I\u2019ll make sure you feel supported now."
+  },
+  {
+    "trigger": "It\u2019s not a big deal, but I just wanted to say...",
+    "emotion": "Politeness + subtle concern",
+    "advice": "Acknowledge concern with warmth. Don\u2019t dismiss it.",
+    "tone": "Receptive, soft",
+    "cue": "I appreciate you sharing that \u2014 it helps us improve."
+  },
+  {
+    "trigger": "I\u2019ve been transferred three times already.",
+    "emotion": "Transfer fatigue",
+    "advice": "Take ownership. Stop the bounce.",
+    "tone": "Firm, supportive",
+    "cue": "I\u2019m taking responsibility now \u2014 we\u2019re solving this together without another transfer."
+  },
+  {
+    "trigger": "Thanks for helping \u2014 you\u2019re the first one who actually has.",
+    "emotion": "Relief + surprise",
+    "advice": "Affirm and follow through strongly.",
+    "tone": "Humble, confident",
+    "cue": "That means a lot \u2014 let\u2019s make sure we completely fix it."
+  },
+  {
+    "trigger": "Whatever, just cancel it.",
+    "emotion": "Disengagement + decision fatigue",
+    "advice": "Offer one last quick, clear solution without pressure.",
+    "tone": "Respectful, optional clarity",
+    "cue": "Absolutely \u2014 before we cancel, I can offer one quick fix that might solve this. Would that be okay?"
+  },
+  {
+    "trigger": "This has cost me money/time already.",
+    "emotion": "Loss + resentment",
+    "advice": "Acknowledge cost, offer restitution or priority solution.",
+    "tone": "Serious, solution-oriented",
+    "cue": "I understand this has cost you. I\u2019ll prioritize a fix and we can explore compensation after."
+  },
+  {
+    "trigger": "I\u2019m tired of repeating myself.",
+    "emotion": "Burnout + annoyance",
+    "advice": "Show you've heard. Avoid repetition.",
+    "tone": "Firm, clear",
+    "cue": "Let\u2019s skip repeating and get to resolution. I\u2019ve reviewed everything you\u2019ve said."
+  },
+  {
+    "trigger": "You just lost a customer.",
+    "emotion": "Finality + anger",
+    "advice": "Acknowledge disappointment, offer dignity, don\u2019t beg.",
+    "tone": "Composed, respectful",
+    "cue": "I understand \u2014 if you change your mind, I\u2019ll still be here to help."
+  },
+  {
+    "trigger": "I need this fixed today, no excuses.",
+    "emotion": "Urgency + pressure",
+    "advice": "Commit to steps, not promises. Set boundaries with clarity.",
+    "tone": "Assertive, professional",
+    "cue": "Here\u2019s what I can do today: [brief list]. You\u2019ll have updates before EOD."
+  },
+  {
+    "trigger": "Sorry, I\u2019m just really stressed.",
+    "emotion": "Stress + emotional overload",
+    "advice": "De-escalate. Be emotionally supportive, not clinical.",
+    "tone": "Empathetic, soft",
+    "cue": "Totally okay \u2014 I\u2019ve got you. Let me take it from here step-by-step."
+  },
+  {
+    "trigger": "This isn\u2019t even your fault, I know.",
+    "emotion": "Displaced frustration",
+    "advice": "Appreciate the understanding, then act.",
+    "tone": "Grateful, focused",
+    "cue": "Thanks for understanding \u2014 let me still do everything I can to fix it."
+  },
+  {
+    "trigger": "I shouldn\u2019t have to call for this.",
+    "emotion": "Annoyance at self-service failure",
+    "advice": "Acknowledge the gap, then deliver fast.",
+    "tone": "Apologetic, fast-acting",
+    "cue": "You\u2019re right \u2014 this should\u2019ve worked without a call. Let me fix it directly now."
+  }
+]
