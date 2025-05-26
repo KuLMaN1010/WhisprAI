@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WhisprAI", "WhisprAI\WhisprAI.pyproj", "{ADD1C4B0-FCDC-474E-94B1-7610748713DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD1C4B0-FCDC-474E-94B1-7610748713DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD1C4B0-FCDC-474E-94B1-7610748713DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8B86D27-B926-4F27-95EC-09F4D93DECE5}
+	EndGlobalSection
+EndGlobal
