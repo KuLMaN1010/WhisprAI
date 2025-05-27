@@ -1,0 +1,2502 @@
+[
+  {
+    "customer": "i need a place to dine in the center thats expensive",
+    "agent": "I have several options for you; do you prefer African, Asian, or British food?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Any sort of food would be fine, as long as it is a bit expensive. Could I get the phone number for your recommendation?",
+    "agent": "There is an Afrian place named Bedouin in the centre. How does that sound?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Sounds good, could I get that phone number? Also, could you recommend me an expensive hotel?",
+    "agent": "Bedouin's phone is 01223367660. As far as hotels go, I recommend the University Arms Hotel in the center of town.",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Yes. Can you book it for me?",
+    "agent": "Sure, when would you like that reservation?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "i want to book it for 2 people and 2 nights starting from saturday.",
+    "agent": "Your booking was successful. Your reference number is FRGZWQL2 . May I help you further?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "That is all I need to know. Thanks, good bye.",
+    "agent": "Thank you so much for Cambridge TownInfo centre. Have a great day!",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Guten Tag, I am staying overnight in Cambridge and need a place to sleep. I need free parking and internet.",
+    "agent": "I have 4 different options for you. I have two cheaper guesthouses and two expensive hotels. Do you have a preference?",
+    "domain": "hotel"
+  },
+  {
+    "customer": "No, but I'd really like to be on the south end of the city. Do any of those fit the bill?",
+    "agent": "Sure. Does price matter? We can narrow it down and find exactly what you need.",
+    "domain": "hotel"
+  },
+  {
+    "customer": "No I don't care about the price. Which one do you recommend?",
+    "agent": "I would recommend aylesbray lodge guest house. Would you like me to book that for you?",
+    "domain": "hotel"
+  },
+  {
+    "customer": "Yes, book it for 4 people and 4 nights starting from tuesday.",
+    "agent": "The booking was unsuccessful. would you like another day or a shorter stay?",
+    "domain": "hotel"
+  },
+  {
+    "customer": "How about for 3 nights?",
+    "agent": "Booked! Reference number is: 84ESP6F5",
+    "domain": "hotel"
+  },
+  {
+    "customer": "Great. I am all set then. Have a nice day. Bye.",
+    "agent": "Have a nice stay. Bye.",
+    "domain": "hotel"
+  },
+  {
+    "customer": "Hi there! Can you give me some info on Cityroomz?",
+    "agent": "Cityroomz is located at Sleeperz Hotel, Station Road in the Centre area. It is a moderatley priced hotel with a 0 star rating. Would you like to book a room?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Yes please. I need it for 7 people for 3 nights starting on tuesday.",
+    "agent": "How many days would you like to book it for?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "I would like to book it for 3 nights beginning on Tuesday.",
+    "agent": "Ok, Your rooms have been booked. Your reference number is CYJDAR7R . Is there anything else I can help you with today?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Yeah, I need a restaurant in the west and with expensive pricing.",
+    "agent": "There are 9 expensive restaurants in the west area. Do you prefer a certain type of food?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "No, I don't have a preference, but I need the phone number and postcode.",
+    "agent": "I recommend Graffiti, the number is 01223277977 and the postcode is cb30lx. Would you like me to book a table for you?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "No, right now, I just need the infor. Thanks!",
+    "agent": "Can I help you with anything else today?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "That is all. thanks",
+    "agent": "Thank you for using our system.",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "I am looking for a hotel named alyesbray lodge guest house.",
+    "agent": "i have their info, what would you like to know?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "I would like to book a reservation for it. Can you help me with that?",
+    "agent": "I sure can. First, I will need to know when you want your stay to begin and how many days you'll be staying. Also, how many people will be staying?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "We will be arriving on Sunday and will stay for 5 nights.",
+    "agent": "Can you tell me how many guests will be staying in the room?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "There will be 8 guests.",
+    "agent": "Booking was successful. Your reference number is 4UFN3SWC . Will that be all for today?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "that is it thank you.",
+    "agent": "You have a nice day then!",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Can you actually look up a restaurant for me as well?",
+    "agent": "sure thing what's the area and or name?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "It's a place called Don Pasquale Pizzeria.",
+    "agent": "A very nice place in the centre. Need a reservation?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Yes, I do. I'll need it booked for the same day, same people, and we'd like to eat at 19:00.",
+    "agent": "Booking was successful. The table will be reserved for 15 minutes. Reference number is : GVM0PAM2 .",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Great. One more thing. Can you book a taxi between the two places? I'd like to arrive at the restaurant in time for my reservation.",
+    "agent": "Contact number 07404031593. You are in a Red Skoda.",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Thank you so much that was all I needed.",
+    "agent": "Alright, hope you enjoy the rest of your day.",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "i need a train on tuesday out of kings lynn",
+    "agent": "What time of day would you like to leave?",
+    "domain": "train"
+  },
+  {
+    "customer": "I want to leave on Tuesday.",
+    "agent": "Do you have a time you'd like to leave?",
+    "domain": "train"
+  },
+  {
+    "customer": "I'd like to leave after 9:30.",
+    "agent": "Is that 9:30 AM or PM?",
+    "domain": "train"
+  },
+  {
+    "customer": "Looking for a train Tuesday leaving kings lynn after 9:30 to go to cambridge.",
+    "agent": "I'm sorry, I'm not seeing any trains for that time. Would you like to try another time or a different route?",
+    "domain": "train"
+  },
+  {
+    "customer": "No, I'd like a train leaving after 09:30 departing from Kings Lynn and going to Cambridge. Please take another look?",
+    "agent": "There are no trains running at this time. Can I narrow your search in any way?",
+    "domain": "train"
+  },
+  {
+    "customer": "Wow...no, I really needed that time. I guess not. Thanks anyway.",
+    "agent": "I do have a train living at 10:11 of that would work for you.",
+    "domain": "train"
+  },
+  {
+    "customer": "Yes, that works. Please book for two people. Thanks for checking again.",
+    "agent": "It's my pleasure. You're booked with reference HXG3N56O . The total fee is 19.6 GBP payable at the station. May I help with anything else?",
+    "domain": "train"
+  },
+  {
+    "customer": "Perfect. Thank you for your help. Have a great day. Bye.",
+    "agent": "Thank you for using our service, goodbye.",
+    "domain": "train"
+  },
+  {
+    "customer": "Have a nice day.",
+    "agent": "Booking was successful, the total fee is 19.6 GBP payable at the station . Reference number is : HXG3N56O .",
+    "domain": "train"
+  },
+  {
+    "customer": "I am looking for a restaurant. I would like something cheap that has Chinese food.",
+    "agent": "I've heard good things about the lucky star. Need a reservation?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Yes, could you make a reservation for 1 at 20:00 on Saturday?",
+    "agent": "Your booking was successful. The table will be reserved for 15 minutes. Reference number is : FDLFKTZM .",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Thank you so much for your help!",
+    "agent": "You're welcome. Thank you! Have a good day now!",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Thanks, you too. Goodbye.",
+    "agent": "Thank you for using Cambridge TownInfo centre. Good-bye",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Please find me a train from cambridge to stansted airport",
+    "agent": "Sure, I can do that but first I need a little more information. What day would you like to travel as well as departure and arrival times?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Saturday leaving Cambridge anytime after 20:00 please",
+    "agent": "TR3128 will leave at 20:40 and arrive by 21:08. Do you need more information or would you like to book tickets?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Can you book me 6 tickets please?",
+    "agent": "You're all set. Total for tickets is 48.48 GBP payable at the station. Reference number is JD6SA21J .",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I am also looking for The Riverside Brasserie.",
+    "agent": "riverside brasserie is a modern european restaurant in the centre. Its address is Doubletree by Hilton Cambridge Granta Place Mill Lane and postcode is cb21rt. Want to book it?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Yes, I would like to book it and get a reference number.",
+    "agent": "Unfortunately, I cannot book it at this time.",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Can you try for Saturday at 13:00?",
+    "agent": "How many people will be dining?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "6 people will be dining",
+    "agent": "Your booking was successful. Your reference number is 3VX3AOKS .",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Thanks for everything you have been great!",
+    "agent": "Thank you is there anything else today?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "No that is all I needed. Thank you ever so kindly.",
+    "agent": "Wonderful. I'm glad I could help. Have a great day. Goodbye.",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I'm looking for an expensive restaurant in the centre if you could help me.",
+    "agent": "I sure can. There are lots of choices. Are you looking for a particular type of food?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "No, not really. I think I'd like to try something different. Could you suggest something?",
+    "agent": "There is a Korean restaurant called Little Seoul located at 108 Regent Street City Centre. Would you like their phone number?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Yes, I would like both the phone number and the postcode please.",
+    "agent": "The phone number for little seoul is 01223308681, postcode cb21dp. Can I help you with anything else today?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Can I also have the address please?",
+    "agent": "The address for Little Seoul is 108 Regent Street, City Centre. Is there anything else I can help you with?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I also want to see the travel times for a train going from Kings Lynn from Cambridge on Saturday. It should leave after 09:15.",
+    "agent": "Is there a time you would like to arrive by?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I got that backwards. Need a train leaving Kings Lynn after 9:15 and arriving in Cambridge sometime on Saturday.",
+    "agent": "TR2514 leaves at 10:11 and arrives at 10:58. Will this one work for you?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Sure. Could you tell me the exact travel time?",
+    "agent": "Sure. The travel time for TR2514 is 47 minutes. Anything else I can help you with today?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "that is it for today. good day thank you",
+    "agent": "Have a wonderful day yourself. Goodbye.",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I'm looking for a places to go and see during my upcoming trip to Cambridge.",
+    "agent": "What area of town would you like?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "I would like to go to the south area please.",
+    "agent": "On the south side, your options are the cinema, entertainment venues, museums, nightclubs, parks, and a theatre.",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "That's a lot of choices, how about nightclubs? Can you get me a couple of phone numbers for good ones? I'm hoping to catch DJ Squalour from Ibiza!",
+    "agent": "The only nightclub in the south is called the place on 22 sidney street. Phone number is 01223324600. Can I help you with anything else?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Yes, I would like an expensive hotel with free parking.",
+    "agent": "I have places that fit that description all over town, except in the north. If area is no concern, I recommend the Gonville in the center of town.",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Is it four star?",
+    "agent": "No, it only 3 stars. The Huntington Marriott is 4 stars though. It is also expensive and has free parking and internet.",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Okay well now I need to get a taxi to leave the hotel by 17:45 to the attraction. I will need a contact number and car type.",
+    "agent": "Booking completed! Booked car type : red lexus Contact number : 07421633218",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "I want to confirm that the booked red Lexus is a taxi, as I previously requested?",
+    "agent": "Yes, it is! Anything else needed?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "No that is it. Thank you!",
+    "agent": "you are welcome. enjoy your stay.",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Hi, I'd like to book a train to stansted airport from cambridge. Can you help?",
+    "agent": "Absolutely. Where will you departing from?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "From Cambridge, which is why I asked the Cambridge TownInfo centre.",
+    "agent": "What day would you like to leave?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "On Saturday. Is there a train that will arrive by 15:15?",
+    "agent": "There is! TR7213 leaves at 05:40 and arrive at 06:08 it is 10.10 pounds. Can I book that for you?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "No need to book it. Thanks. But can you help me find a cheap restaurant in the south?",
+    "agent": "Sure - The Lucky Star serves Chinese food and Nandos serves Portuguese food. Do either of those sound good?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "The Lucky Star sounds good. That's all I need.",
+    "agent": "Would you like to book a table?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Can you also tell me the postcode?",
+    "agent": "Sure. The post code is cb17dy.",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Thanks for your help. Good bye.",
+    "agent": "You're welcome. Please let me know if you need anything else.",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Yeah, could you recommend a good gastropub?",
+    "agent": "Backstreet Bistro. It's expensive though. There is a moderately priced one called The Cow Pizza Kitchen and Bar if preferred.",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "I would like to book a table at the Backstreet Bistro for 5 people at 16:00 on Thursday.",
+    "agent": "No problem. That is booked for you and your reference number is 2VE84YC5 . Is there anything else I can book for you?",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "Yes, any suggestions of museums found in the east area of town?",
+    "agent": "Yes, Gallery at Twelve a High Street is excellent, and has free admission. Would you like more information?",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "Can I please have the phone number and address for that place?",
+    "agent": "Certainly! The address for gallery at twelve a high street is fulbourn and the phone number is 01223295264. Can I help you with anything else?",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "Great that's all the information I needed today, thank you!",
+    "agent": "You are very welcome. Have a nice day. Good bye.",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "I want to find an expensive restaurant and serves european food. Can i also have the address, phone number and its area. ?",
+    "agent": "Eraina is a European restaurant in the centre area. Their address is St. Michael's Church Trinity Street City Centre and phone number 01223 355166.",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "thank you goodbye",
+    "agent": "Thank you and good bye",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "I need a 19:15 taxi to take me to Avalon.",
+    "agent": "I can definitely help! Where are you departing from?",
+    "domain": "taxi"
+  },
+  {
+    "customer": "I will be departing from Primavera.",
+    "agent": "You car has been booked. It is a black volvo. Can I assist you any further?",
+    "domain": "taxi"
+  },
+  {
+    "customer": "Can i get the contact number please",
+    "agent": "Yes, your contact number is 07698022958. Can I assist you any further?",
+    "domain": "taxi"
+  },
+  {
+    "customer": "No, that will be all. Good bye.",
+    "agent": "You're very welcome! Goodbye.",
+    "domain": "taxi"
+  },
+  {
+    "customer": "Where's a good place to eat crossover food in Cambridge?",
+    "agent": "There are no crossover locations in Cambridge.",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "How about British restaurants in the Centre instead?",
+    "agent": "I have 7 in the centre that serve british food. I have 4 in the moderate price range and 3 in the expensive. Did you have a preference?",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "I would prefer the british food.",
+    "agent": "I have cotto that serves moderate priced food. Would you like to book a table?",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "Yes please make a booking for 8 people at 12:30 on friday.",
+    "agent": "I have made your booking here is the information:Booking was successful. The table will be reserved for 15 minutes. Reference number is : VVSOH0TQ .",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "What's a good college to visit near the restaurant?",
+    "agent": "There are 13 colleges in the centre. Is there a particular one you are interested in?",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "Any college will be fine what do you recommend? I need the phone number for whichever you pick.",
+    "agent": "christi's college is in that area and has free entrance. There phone number is 01223334900. Is there anything else I can assist you with?",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "That is all I needed.",
+    "agent": "Thank you for choosing us and enjoy your stay.",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "I want a restaurant in the north of Cambridge that is within a moderate price range.",
+    "agent": "There are two restaurants fitting your description, one is Chinese cuisine and one is Indian cuisine. Do you have a preference?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Please book a table for 4 at the Chinese place at 12:30 on Sunday and give me the reference number.",
+    "agent": "Okay you're all set for Sunday at 12:30. Your reference number is F5BTP63A . Can I help you find anything else?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I am also looking for a train that goes to broxbourne on monday.",
+    "agent": "There are 19 trains to broxbourne on Monday leaving every hour starting at 05:01. Is there a specific time you'd like?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I would like to arrive in broxbourne by 13:00.",
+    "agent": "The one arriving closest to 13:00 is TR5971 leaving cambridge at 11:01 and arrives by 12:01 in broxbourne. Would you like to book a ticket?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Can I just get the price on one of them?",
+    "agent": "All tickets from cambridge to broxbourne on that day cost 17.90 pounds each.",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Please book one.",
+    "agent": "How many tickets do I need to reserve for your train?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Just one, thank you! Please provide me with a reference number.",
+    "agent": "Booking was successful, the total fee is 17.89 GBP payable at the station. Reference number is : T1FGQFDJ . Can I help with anything else today?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "No, thank you. That will be all for today. Thanks.",
+    "agent": "Have a great day.",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Find me a train that leaves on Sunday after 14:00 please",
+    "agent": "Certainly. Where are you headed?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I am leaving norwich going to cambridge on sunday and I need a train that leaves the station any time after 14:00",
+    "agent": "TR5234 will leave at 14:16, would that work for you?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Yes. Give me the ref number please.",
+    "agent": "In order to get a ref number I must complete a booking first. How many tickets would you like me to book for you?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I would like one train ticket please.",
+    "agent": "Your reservation for 1 ticket on the TR5234 train was successful. Your Reference number is : PGQKG62W . Is there anything else I can do for you?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Yes I am looking for a moderate priced place to eat in the east. Phone #, postcode and food type please",
+    "agent": "You have three options for moderately priced restaurants. Do you prefer indian or italian food?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I would prefer Italian but Indian would be good as well. I will need the phone number and postcode of the restaurant. Thanks!",
+    "agent": "The place is called The Curry Prince and the phone number is: 01223566388 and the post code is: cb58jj.",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Thanks for helping me with this. I appreciate it! Goodbye!",
+    "agent": "My pleasure. Have a great day.",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I need to book a train to norwich that arrives by 16:15.",
+    "agent": "What day would you like to leave?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "I want to leave on Wednesday from Cambridge.",
+    "agent": "The TR1144 leaves Cambridge for Norwich on Wednesday at 05:36. Would that be good for you?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "What is the price and travel time?",
+    "agent": "The price is 17.60 pounds.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "And what is the travel time?",
+    "agent": "It is 79 minutes.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Thanks! Can you also tell me if there are any multiple sports attractions in the center of town?",
+    "agent": "there are not. i do have one in the east part of town. would you like the information for that venue?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Thats ok. I really want something in the centre. How about any suggestions on a good college to visit?",
+    "agent": "Christ's college is in the centre of town. Is there anything you need?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Could you please get me the phone number?",
+    "agent": "sure it's 01223334900",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Thank you. That is all that I need.",
+    "agent": "Thank you, have a good day!",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "I need a place to stay that has free wifi.",
+    "agent": "I have 32 places that offer wifi, do you have a price range preference?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "could you provide details for something in the cheap price range?",
+    "agent": "There are 33 cheap hotels with wifi in Cambridge. Do you have a particular area you are interested in?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "No, I have no preference. Just pick one. That will be fine.",
+    "agent": "I recommend alexander bed and breakfast on 56 saint barnabas road would that due?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Perfect. I'll need a room for myself, for five nights on tuesday.",
+    "agent": "Perfect, you are all set for Alexander Bed and Breakfast on Tuesday, your reference number is 22DG5770 . Is there anything I can help with today?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Nope, that's it. Thanks!",
+    "agent": "I hope you not going to sit in your room by yourself for 5 days, are you sure that you dont want to know about a restaurant or attraction?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Actaully i will be on business so not out much but I do need a train, to cambridge leaving after 21:15",
+    "agent": "Ok great. What day will you be traveling?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Yes, I need a train going to cambridge leaving after 21:15 on tuesday departing from broxbourne.",
+    "agent": "I have the TR9688, which leaves at 12:32. Would you like to book this train?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I need a train after 21:15.",
+    "agent": "There are 3 trains leaving an hour apart starting at 21:32. The travel time is 60 minutes and costs 17.90 pounds. Would you like me to book one?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "No thank you. I just need the train ID and arrival time for one of them.",
+    "agent": "The TR3112 arrives at 22:32.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Great, thanks for that information on the train. Can you book for a train leaving after 21:15?",
+    "agent": "How many tickets do you need?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I need tickets for one person.",
+    "agent": "Your total is 17.89 GBP. You can pay that at the station. Your reference number is RAIYCNJU .",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "that is all i needed for today. thanks alot",
+    "agent": "thank you for using this service good bye",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Hi, I'm traveling to Cambridge soon and am looking forward to seeing some local tourist attractions.",
+    "agent": "There are many to see! Are you going to be traveling within a certain area of town?",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Actually, yes. We are traveling into the northern part of town.",
+    "agent": "If you're heading north, I recommend taking a ride on the Riverboat Georgina.",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "That sounds nice but I would like to see about a guesthouse with free wifi.",
+    "agent": "There at 10 guest houses in the north offering free wifi. Are you looking for a particular price range?",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "No, I don't really care about price. Just something in the north that includes wifi.",
+    "agent": "Acorn Guest house is located in the north , has free wifi and is moderately priced.",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Groovy!! Let get a booking for 2 people and 2 nights starting sunday.",
+    "agent": "Your booking has been made and your reference number is O0FG9YKT . Acorn Guest House is located at 154 Chesterton Road. Is there anything else I can do for you?",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Yes, I am looking to visit the cherry hinton hall and grounds. Can I please have more information on that?",
+    "agent": "Sure, that's a great entertainment venue in the East. Their phone number is 01223446104. Is there anything else you need to know?",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "No, taht will be all. Thanks, goodbye.",
+    "agent": "Thank you for using our service!",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Can you help me book a table at a chinese restaurant that's in the centre of town?",
+    "agent": "Great choice! I have 10 Chinese restaurants. What is your price range and we can narrow them down.",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "I need some cheap Chop Suey, please.",
+    "agent": "How does the Charlie Chan sound? It is a cheap Chinese restaurant in the centre.",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "That sounds like they'll have some awesome Chop Suey. Please book me a table for 2 on Tuesday at 12:45.",
+    "agent": "I am sorry but charlie chan is booked for that time. Do you want to pick an earlier or later time, or a different day?",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "Can we try the same day for 11:45 please? And can I have the reference number as well, thanks.",
+    "agent": "Great News! I was able to reserve your table for 2 at the 11:45 time. They will hold the table for 15 minutes. Reference number is : GFIL3UG5 .",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "Thank you. I am also looking for places to go in the same area as the restaurant.",
+    "agent": "There are dozens of attractions in the centre. What type of activities are you interested in? Museums? Architecture? Boat Rides? Something else?",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "I am looking for some type of entertainment in the same area as the restaurant, please.",
+    "agent": "There are all kinds of entertainment choices. Did you have something in mind?",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "No, just an entertainment attraction in the same area as the restaurant. Can you make a suggestion?",
+    "agent": "What about a museum? The cambridge contemporary art is a nice one.",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "That sounds nice can I get their phone number, entrance fee, and address please?",
+    "agent": "The phone number is 01223324222, the address is 6 Trinity Street, and it is free admittance.",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "Thank you so much for your help.",
+    "agent": "Will that be everything for you today then?",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "That will be all. Thank you for your help!",
+    "agent": "Glad to be of assistance, have a great day!",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "Thanks, take care buddy!",
+    "agent": "Thank you goodbye",
+    "domain": "restaurant, attraction"
+  },
+  {
+    "customer": "I am looking for a train to Ely.",
+    "agent": "What day are you looking to travel?",
+    "domain": "train"
+  },
+  {
+    "customer": "I need to leave a little after 8:00 on Sunday, and I'm leaving from Cambridge.",
+    "agent": "The closest train I have is the TR3177 that leaves at 09:50. There's nothing earlier on that day.",
+    "domain": "train"
+  },
+  {
+    "customer": "That will have to work. What is the arrival time?",
+    "agent": "The arrival time is 10:07.",
+    "domain": "train"
+  },
+  {
+    "customer": "Perfect! That's all I needed to know. Thanks. Have a great day.",
+    "agent": "Have a wonderful day!",
+    "domain": "train"
+  },
+  {
+    "customer": "I need to take a train from bishops stortford to Cambridge. Ill need to leave after 9:00",
+    "agent": "There are 56 trains traveling from Bishops Stortford to Cambridge after 9:00 between Friday and Wednesday. What day to you want to travel?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "I want to leave on Sunday.",
+    "agent": "How about TR4803 that leaves at 09:29?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "That will work can you book that for me please?",
+    "agent": "Of course. How many tickets do you need?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Actually, I don't need a booking. I just need to know when it arrives, thanks.",
+    "agent": "It arrives at 10:07.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Thank you. I am also looking for a park to go to.",
+    "agent": "I have 5 to choose from. Is there a certain area you were wanting the park to be in?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "no specific area. just recommend one.",
+    "agent": "Milton Country Park is a great place to visit! It's in the North and free to enter.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Great! Please, give me the address of the park.",
+    "agent": "milton country park, milton.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Thank you so much for your time. Have a nice day!",
+    "agent": "You too, enjoy your stay!",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "I am looking for a restaurant that is in the expensive price range and in the south part of town.",
+    "agent": "There are results matching your query. Would you like Mexican, Italian, Chinese, or Indian?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Let's go with Italian food.",
+    "agent": "Frankie and Bennys is an expensive Italian eatery in the south part of town. Would you like any additional information about this restaurant?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "address and phone number",
+    "agent": "The address is Cambridge Leisure Park Clifton Way Cherry Hinton. The phone number is 01223 412430.",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Thank you, goodbye.",
+    "agent": "You're welcome, goodbye.",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Can you help me find an expensive Chinese food restaurant?",
+    "agent": "What area would you like? There are nine results.",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "I'm interested in restaurants located in the East.",
+    "agent": "Okay, Yu Garden matches your specifications. Would you like me to book a reservation?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Yeah, could you book it for 8 people on Monday? I think 16:15 is when we want to be seated.",
+    "agent": "The booking went through, your table is reserved for 15 minutes starting at 16:15. Reference number is BT75STQI .",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Thanks! I'm also looking for a hotel near that restaurant.",
+    "agent": "I would recommend the Express by Holiday Inn Cambridge, should I book it for you?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "If that has free wifi that'll work.",
+    "agent": "Yes, there is internet there. Would you like a booking then?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Could you tell me the price, address and phone number?",
+    "agent": "They are expensive and can be reached at 01223866800. The address is 15-17 norman way, coldhams business park. Anything else?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "No, that's all for me today! Thank you! Bye!",
+    "agent": "I hope you have a wonderful stay.",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "I am planning a vacation and really could use some help finding a good place to stay in town. I've never been to Cambridge before.",
+    "agent": "which side of town do you prefer and what is the price range?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "It doesn't matter. What do you recommend?",
+    "agent": "alexander bed and breakfast is a guest house in the centre area. Would you like to book a room?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Oh, ok. I really don't want to stay at a guesthouse though. Can you recommend a hotel instead?",
+    "agent": "The Huntingdon Marriott hotel is a very nice place.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Sounds good. Can you get me a room for 2 for 5 nights starting Sunday?",
+    "agent": "Booking was successful. Reference number is : 36N9VCAD . Is there anything else I can help with?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "What is the train schedule from birmingham new street like? I need to arrive at 13:45.",
+    "agent": "Where would you like the train to arrive, and what time will you be leaving?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I need the travel day to be Sunday. I'll be going to Cambridge and arrive by 13:45. I'll be leaving from Birmingham New street.",
+    "agent": "Train TR7468 will arrive at 13:23. Will this work for you?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "What is the travel time on that train?",
+    "agent": "It is 163 minutes on that train.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Excellent. Thanks for all the help!",
+    "agent": "You are quite welcome, thank you for using our services. Have we met all of your needs today?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Yes, thanks very much! Have a great day!",
+    "agent": "ok thanks and have a great day",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "You too! Thanks so much for all the help. Please end the convo and read the directions next time. thanks",
+    "agent": "Keep the snarky comments to yourself.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I'm looking to go to dinner tonight and am in the mood for some good Bistro in the centre of town, can you find me some options?",
+    "agent": "I'm sorry. There is no matching restaurant. Would you like to try a different food type or area?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Hmm... let me think. Let's try maybe something italian instead.",
+    "agent": "There are nine Italian restaurants in the centre of town! Are you looking for an Italian restaurant in any particular price range?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Which of those nine has the best ratings? Can I please have the address and postcode.",
+    "agent": "I recommend Caffe Uno - it's very nice. They're at 32 Bridge Street City Centre, cb21uj. Can I help with anything else?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "No, that's all. Thanks.",
+    "agent": "Thank you! Goodbye.",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "I am looking for a particular restaurant. Its name is called travellers rest",
+    "agent": "It is an expensive British restaurant on the west side of town. Would you like the address?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Yes, and can you book a table for 1 at 14:15 on Monday, please.",
+    "agent": "Ok. You're all set for Monday at 14:15. Have a great day.",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "I'm wanting a train that leaves on Friday and goes to Cambridge.",
+    "agent": "Sure thing. What's your departure site and around what time would you like to leave?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "I want to leave after 16:45, depart from Birmingham New Street.",
+    "agent": "The first train will leave at 17:40 and arrive at 20:23. Does that sound good?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "This time works fine for me.",
+    "agent": "You train has been booked, and the reference number is ZETNNFN0 . You will owe 75.09 GBP when you arrive.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "thanks, i'm also looking for some museums.",
+    "agent": "We have lots of wonderful museums. Is there a particular area of the town you would like to find one in?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Yes, do you have any in the centre?",
+    "agent": "There's 11 museums in the centre is there a type of museum you'd like to visit?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Anyone of those would work. Could you recommend something for me? I'll need the phone number, and address as well.",
+    "agent": "The broughton house gallery is very nice and the phone number is 01223314960 and the address is 98 king street.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "What area is it in?",
+    "agent": "It is in the centre.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Heya, can you find me an expensive restaurant with north african food?",
+    "agent": "I actually cannot find any expensive restaurants with north african food. There is however an expensive restaurant with african food. Would that be okay?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Are there any expensive restaurants with gastropub food?",
+    "agent": "Yes, I have 3. Two are located in the centre and one is located in the east. Do you have a preference?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Yes, the one in the east please.",
+    "agent": "One in the East is called Royal Standard. Can I book a table for you?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Yes, please book it for 2 people at 13:45 on monday.",
+    "agent": "I'm sorry that isn't available. Can I try a different restaurant for you?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "No thank you that will be all.",
+    "agent": "Is there anything else I can assist you with?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "That was all thank you.",
+    "agent": "Thank you. Good bye",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "I'm planning a trip to Cambridge and I was told the A and B Guest House was a great place to stay. Can you give me information about it?",
+    "agent": "Absolutely! This is a moderately priced guest house with four stars. There is wifi included. It is located on the east. What else can I help with?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Do you have free parking? I refuse to pay for parking in a hotel that I am staying at. Wouldn't you agree?",
+    "agent": "Yes, I would as a matter of fact. And yes the offer free parking.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Okay, sounds good. Also I need to get a train from Liverpool street to Cambridge.",
+    "agent": "What day would you like to make this trip? Do you have any other specifications?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Oh wait, you know what? I forgot to ask about star ratings. What's the star rating on the A and B Guest House, please?",
+    "agent": "It has four stars. Would you still like information on the train?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "The train should leave after 12:45 and should leave on friday. for 2 people please book.",
+    "agent": "TR5015 leaves london liverpool street at 13:39 and arrives at cambridge by 15:07. Would this work for you?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Does that train leave on Friday?",
+    "agent": "Yes, that train leaves on Friday.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I need two tickets.",
+    "agent": "Okay, two tickets are booked, for a total price of 33.2 GBP, and your reference number is MY04HJ0A, do you need anything else today?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "No thanks, that is everything.",
+    "agent": "Thanks for using our system!",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I need a train to go from Cambridge to Norwich.",
+    "agent": "What day of the week are you looking to travel?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I am traveling on Sunday",
+    "agent": "What time would you like to leave or arrive by?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I would like to arrive by 13:45.",
+    "agent": "I have the TR7438 that will arrive at 12:55. Would you like a booking made today?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I would like to book that train for 4 people please.",
+    "agent": "7G6OJ8G2 is your confirmation code. May I help you further?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "yeah, I'm also looking for a place to stay. I don't like hotels, so a guesthouse would be better. Moderate in price.",
+    "agent": "There are several moderate priced guesthouses do you have a preferred area that you want to stay in?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Yes, the hotel should be in the east and doesn't need to have free parking.",
+    "agent": "a and b guest house is a guesthouse in the east and it is moderate. Shall I book it ?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "can I have the star rating and idf they have wi fi ?",
+    "agent": "The star rating is 4 and they do have free wifi.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "OK, that's all I need for now. Thanks.",
+    "agent": "Great. I hope you have an excellent day.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Thanks you too Goodbye",
+    "agent": "Great! Have a good day.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Good day. Might you be able to assist me with a taxi going to Corpus Christi leaving sometime after 08:45?",
+    "agent": "Sure I can do that! Where is the departure site?",
+    "domain": "taxi"
+  },
+  {
+    "customer": "I need it to pick me up from gourmet burger kitchen.",
+    "agent": "The car coming is a White Tesla with contact number is: 07441094025",
+    "domain": "taxi"
+  },
+  {
+    "customer": "Thank you so much.",
+    "agent": "Is there anything else I can help you with today?",
+    "domain": "taxi"
+  },
+  {
+    "customer": "Nope, that will do it, thanks!",
+    "agent": "You're welcome. Have a great trip!",
+    "domain": "taxi"
+  },
+  {
+    "customer": "I am looking for a restaurant.",
+    "agent": "Is there a price range or type of food that you would prefer?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Not sure of that, I am looking for a restaurant named \"ask.\"",
+    "agent": "That is an Italian restaurant located in the centre of town. It is at 12 Bridge Street. Can I call and reserve a table for you?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "I would like to book a table for 5 people on Sunday at 14:15",
+    "agent": "I am afraid that booking was unsuccessful. Would you like to try another restaurant?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Yes, a different restaurant in the same area and with the same price range.",
+    "agent": "Yes there are 15 restaurants that are a similar price range. Did you still want Italian?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Type of food doesn't matter. Which is the best one? I'll book that.",
+    "agent": "Your reservation is at the Dojo Noodle Bar at Millers Yard. The reference number is W87AKIBY and the table will be held for 15 minutes. Is that all?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "That is all. Thank you!",
+    "agent": "Thank you for calling. Enjoy your dining experience.",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "I'm looking for a train please.",
+    "agent": "Where are you leaving from and where would you like to go?",
+    "domain": "train"
+  },
+  {
+    "customer": "I plan to leave from stevenage to go to Cambridge.",
+    "agent": "Okay. There are 70 trains that go from stevenage to cambridge. Would you like to narrow it down by day or time?",
+    "domain": "train"
+  },
+  {
+    "customer": "I want to leave on Sunday and arrive by 12:15.",
+    "agent": "trainID departure destination day leaveAt arriveBy price duration book (optional) TR1542 stevenage cambridge sunday 05:54 06:43 10.24 pounds 49 minutes TR5870 stevenage cambridge sunday 07:54 08:43 10.24 pounds 49 minutes TR7802 stevenage cambridge sunday 09:54 10:43 10.24 pounds 49 minutes TR8225 stevenage cambridge sunday 11:54 12:43 10.24 pounds 49 minutes are the opitions",
+    "domain": "train"
+  },
+  {
+    "customer": "Thank you, I will check them out and get back to you.",
+    "agent": "You are welcome. Call back anytime you are ready to book.",
+    "domain": "train"
+  },
+  {
+    "customer": "That information is very overwhelming. Can you please pick the best option that meets my criteria and book for 6 people.",
+    "agent": "I would like to book the TR7802 stevenage cambridge sunday 09:54 10:43, please.",
+    "domain": "train"
+  },
+  {
+    "customer": "I think you're confused. I need the info, you're the help desk.",
+    "agent": "I apologize for the mistake. I have booked six tickets for you and your party on the TR7802 train departing from Stevenage at 09:54 and arriving at Cambridge at 10:43.",
+    "domain": "train"
+  },
+  {
+    "customer": "That's more like it. And, what's the reference number?",
+    "agent": "Your reference number is DDBA2U1R . The total fee is 61.44 GBP payable at the station. May I help with something else?",
+    "domain": "train"
+  },
+  {
+    "customer": "That was all. Thank you",
+    "agent": "Thanks for using our services.",
+    "domain": "train"
+  },
+  {
+    "customer": "I need to get a train going to Stevenage.",
+    "agent": "I will need some more information. The train is departing from cambridge correct? What day would you like to leave?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Yes, departing from Cambridge. We'll be leaving on Tuesday, hopefully after 15:15.",
+    "agent": "How about TR5343? It leaves at 15:21. Your next choice is TR9883 which leaves at 17:21.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "What is the price for TR5343?",
+    "agent": "It is 12.80 pounds.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "I would like information on pools in the north.",
+    "agent": "jesus green outdoor pool and kings hedges learner pool are in that area. Could I get you info on one of those?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "How about Jesus Green Outdoor pool. Could I have their address and phone number.",
+    "agent": "Sure, the phone number for jesus green outdoor pool is 01223302579. The address is listed as between victoria road and the river.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "thanks! that's all i need now",
+    "agent": "Is there any other info or booking I can do?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "No, not at this time. Thank you.",
+    "agent": "Okay glad I could help.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "I am getting ready to go off to college. I thought while I was in town maybe I could visit one.",
+    "agent": "Great idea! There are 18 entries found! What area of town would you like to visit?",
+    "domain": "attraction"
+  },
+  {
+    "customer": "I think I'd like to visit the centre.",
+    "agent": "There are 13 colleges in the city center but I recommend visiting Downing college and it is free to get in.",
+    "domain": "attraction"
+  },
+  {
+    "customer": "Great! Can I have the address, please?",
+    "agent": "Sure, it's located at Regent Street.",
+    "domain": "attraction"
+  },
+  {
+    "customer": "Great, thank you very much. That's all I need.",
+    "agent": "You're welcome. Have a great day!",
+    "domain": "attraction"
+  },
+  {
+    "customer": "I am looking for a high priced hotel in the north side of town",
+    "agent": "I'm sorry, but there aren't any places that meet those qualifications. Would you like to try a different part of town?",
+    "domain": "hotel"
+  },
+  {
+    "customer": "How about an expensive hotel in the south side of town?",
+    "agent": "There is one option, it is The Lensfield Hotel. Do you want me to reserve any rooms for you?",
+    "domain": "hotel"
+  },
+  {
+    "customer": "Does it offer free wifi?",
+    "agent": "Yes the Lensfield Hotel does have free wifi.",
+    "domain": "hotel"
+  },
+  {
+    "customer": "How about free parking, does it have that as well?",
+    "agent": "Yes it also has free parking. Anything else today?",
+    "domain": "hotel"
+  },
+  {
+    "customer": "book it for 7 people and 3 nights starting from monday.",
+    "agent": "The booking was successful. Your reference number is 81E1ITXC . Is there anything else I can help with today?",
+    "domain": "hotel"
+  },
+  {
+    "customer": "No that is all I need. Thank you for your time.",
+    "agent": "we appreciate you using our services. have a good day.",
+    "domain": "hotel"
+  },
+  {
+    "customer": "Hi, what can you tell me about the bangkok city restaurant?",
+    "agent": "Sure! It serves Thai food and is located in the centre. Would you like to book it?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Yes for 2 at 19:30 on Sunday please. I need the reference number then too.",
+    "agent": "I've booked that for you and your reference number is X4W3U0LM .",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I'd also need a train leaving the centre going to kings lynn and arriving by 17:00 on monday.",
+    "agent": "I can certainly help with that. Could you just verify your departure point for me?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Yes, it should depart from Cambridge.",
+    "agent": "the earliest arrives by 17.58",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Ok, I think that should be fine. Can you make a booking for me?",
+    "agent": "sorry, the arrival time is actually 16:58. how many tickets would you like?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I need tickets for the same group of people going to the restaurant with me.",
+    "agent": "I have booked train TR2324. The total fee is 19.6 GBP which is payable at the station. Your reference number is EGIIL92A .",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Thank you so much.",
+    "agent": "Is there anything else I can help you with?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "No that is it. Thank you so much.",
+    "agent": "Well we are here to help. Enjoy your time here !",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Thank you for your assistance.",
+    "agent": "Thank you for calling. I hope you enjoy your trip. Goodbye.",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I'm looking for a hotel, can you help?",
+    "agent": "I can, we have 9 hotels, do you have anything else to narrow it down?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "It should be in the centre and be on the expensive side.",
+    "agent": "I have 2 available hotels. One is the Gonville Hotel located on Gonville Place. The other is University Arms Hotel on Regent Street. Which one would you like to book?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Can you book the one without wifi?",
+    "agent": "they both have internet, for what days and how many people should I book?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Do either of them offer free wifi?",
+    "agent": "As previously mentioned, they both have internet available. I don't have specifications about the internet service however. Would you like to book one of these?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Yes, please book for two nights beginning on Sunday for one person.",
+    "agent": "Your booking was successful and the reference number is ELYPAXQZ .",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Thank you. I'm also looking for a museum to go to in the same area.",
+    "agent": "there are 11 all with free entrance. Would you like me to recommend one?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Yes, please. Can I get the address and phone number for the one you reccommend?",
+    "agent": "castle galleries is a nice place, their address is unit su43 grande arcade st andrews st and their postcode is cb23bj, anything else today?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Do you have there phone number?",
+    "agent": "Their phone is 01223307402. Is there anything else I can help you with today?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Yes, I also need a taxi going between the two places.",
+    "agent": "What time do you need the taxi, and which is the destination site?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "I want to arrive at the Castle Galleries by 11:15.",
+    "agent": "Your white ford taxi booking was successful. Its contact number is 07580691974.",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Ok, thank you for the help.",
+    "agent": "Was there anything else you needed today?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "I'm looking for a train.",
+    "agent": "Let's start with where you are departing from and where you are going?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Departing from ely to cambridge.",
+    "agent": "There are quite a few trains from Ely to Cambridge. On what day will you be traveling, and at what time would you like to depart?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "It's on Tuesday. I need to arrive by 9:30 and need to book for 7 people. Could I also get the reference number too?",
+    "agent": "Ok I have booked you on TR6971 leaving Ely at 7:35, arriving at cambridge by 7:52 for 7 people. Reference number AQRMT6Q9 . Anything else I can help with?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "One more thing. Can you give me information about an attraction called Ruskin Gallery?",
+    "agent": "It's a free museum in the city centre, located at anglia ruskin university, east road. Anything else I can help with?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "What is the phone number for there?",
+    "agent": "Phone # is 01245493131. Anything else I can do for you?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "That was all I needed today. Thank you.",
+    "agent": "You're welcome, have a nice day.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Please find me a place to dine that's expensive and in the centre.",
+    "agent": "Fitzbillies restaurant is expensive in the centre of town. Would you like to try that?",
+    "domain": "restaurant, attraction, hotel"
+  },
+  {
+    "customer": "I am looking for Thai food.",
+    "agent": "we have bankok city. it is located in 24 green street centre. can i give you the phone number?",
+    "domain": "restaurant, attraction, hotel"
+  },
+  {
+    "customer": "Ok great. Can you reserve a table there for Thursday for 5 people at 15:00 please?",
+    "agent": "it was successful. Reference number is : AKNPF1IH .",
+    "domain": "restaurant, attraction, hotel"
+  },
+  {
+    "customer": "Thank you for your help.",
+    "agent": "Your very welcome. Can I help you with anything else today?",
+    "domain": "restaurant, attraction, hotel"
+  },
+  {
+    "customer": "Yes a hotel please.",
+    "agent": "Okay. I can help you with that. Can you help me narrow the options down by providing preferences such as area, price range, and type?",
+    "domain": "restaurant, attraction, hotel"
+  },
+  {
+    "customer": "You know what? I don't need a hotel after all. I heard something about an attraction called ballare, could you give me some information about it?",
+    "agent": "Ballare is a nightclub located in the centre area. the phone is 01223364222 and the entrance fee is 5 pounds. Can I help you with anything else?",
+    "domain": "restaurant, attraction, hotel"
+  },
+  {
+    "customer": "That is everything. Thank you so much for your help.",
+    "agent": "You're welcome! Is there anything else I can help you with today - transportation perhaps, or other attractions?",
+    "domain": "restaurant, attraction, hotel"
+  },
+  {
+    "customer": "That is all I need.",
+    "agent": "Thanks for using the Cambridge booking service and have a great day.",
+    "domain": "restaurant, attraction, hotel"
+  },
+  {
+    "customer": "I'm looking for a particular restaurant called ask. Please give me information on that restaurant.",
+    "agent": "Ask is an italian place in the centre area, they are in the cheap price range. Can I help with anything else?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Yes, I'd like to book a table for 1 at 17:15 on Wednesday. Can you do that?",
+    "agent": "I was able to book that table for you. Your reference number should you need it, is DFEBH5D1 .Can I help with anything else?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "No. I think I am all set. Thanks.",
+    "agent": "You're very welcome, just let us know if we can help with anything else.",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "What fun places can I visit in the East?",
+    "agent": "We have five spots which include boating, museums and entertainment. Any preferences that you have?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "I don't have a preference. Which place would you recommend?",
+    "agent": "I'm fond of the Cambridge Museum of Technology. Would you like more information on it?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "What is the entrance fee?",
+    "agent": "It is 5 pounds to get in.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Great, thanks! Can you help me find a train going into Cambridge as well?",
+    "agent": "I certainly can! Where would you be coming from and what day and time?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "I am leaving birmingham new street and going to cambridge; I need to travel on Friday and arrive by 13:15.",
+    "agent": "TR0497 arrives by 12:23. Would you like a ticket?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Yes please. Book the train for 2 people. Please include the reference number.",
+    "agent": "Reference number is : PYPBSAXI . Is there anything else?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "That's everything. Thanks again and have a great day!",
+    "agent": "Enjoy your trip! Have a great time!",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Hi, I am traveling to Cambridge and am super excited to see some local tourist attractions. I am looking for some suggestions on places to go in town.",
+    "agent": "There are 79 attractions in Cambridge. There are churches, museums, swimming pool, and many more attractions. What are you interested in doing?",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Perhaps I'd like to see a museum. Are there any in the centre?",
+    "agent": "There are 11 museums in the centre area. There is a science museum, an art and antiques museum, and 9 others. What kind of museum are you interested in?",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Does not matter can you just recommend one please.",
+    "agent": "Castle Galleries is a very nice museum in the centre, and their entrance fee is free!",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Excellent. Can I please have they're phone number and address please?",
+    "agent": "They are located at unit su43, grande arcade, saint andrews street, cb23bj. You can reach them at 01223307402.",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Thank you. I am also needing help booking a guesthouse in the north part of town. Can you assist me with that?",
+    "agent": "You're in luck. There are 11 guesthouses in the north. What amenities are you looking for?",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "4 people for 5 nights starting Sunday and I also need the ref # too please",
+    "agent": "Ok great, we have you booked in the alpha-milton guest house at 63 milton road. Your Reference number is : KPUSMIB9 . Thank you!",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Hey, I'm up south can you give me a place to eat?",
+    "agent": "What kind of food would you like?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Don't care.",
+    "agent": "I recommend Chiquito Restaurant Bar",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Can I have the address and telephone number?",
+    "agent": "Chiquito Restaurant Bar is located at 2G Cambridge Leisure Park Cherry Hinton Road Cherry Hinton. The phone number is 01223 400170.",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "THAT WILL BE FINE.",
+    "agent": "You're welcome, goodbye.",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "I will be staying in Cambridge. I need a hotel with wifi.",
+    "agent": "What about a and b guest house? It's in the East.",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "I need something in the centre.",
+    "agent": "There are 7 hotels which area do you prefer?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "The north part of town",
+    "agent": "I ran a search in the north, there's 12 choices. Lets make sure were on the same page, is this the area that you want? Also hotel or Guesthouse?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Sorry, I've been all over the place. To be clear, I need a hotel with free wifi and parking that is in the centre.",
+    "agent": "Shall I choose a hotel for you, or do you have a preference? 4 hotels have free parking and internet in that area.",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "yes please recommend one. the booking is needed for saturday. 3 nights, 6 people",
+    "agent": "May I recommend alexander bed and breakfast. While it is a cheap guesthouse in the centre of town, it has a 4 star rating and also included internet and parking",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Ok great. Can you book a room for 6 people and 3 nights starting from Saturday.",
+    "agent": "Booking was successful. Reference number is : QK6KCZQA",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Great, thank you. I'm also in need of an Indian restaurant in the cheap price range. Can you find me one?",
+    "agent": "We have several. What part of town are you thinking?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Any will do, what ever you recommend.",
+    "agent": "Royal Spice is located in the north. It's one of my personal favorites. Would you like me to make reservations for you?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "I certainly want to try it then. Please book for 6 people at 11:30 on Saturday.",
+    "agent": "You have been booked at the Royal Spice. Your reference number is WSPAI5JJ . Can I be of further assistance today?",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Thank you . I am all set.",
+    "agent": "Great! And you're welcome, have a great day!",
+    "domain": "restaurant, hotel"
+  },
+  {
+    "customer": "Can you assist me in finding me an Expensive Restaurant in Cambridge where I can dine? The restaurant should be serving British foods.",
+    "agent": "sure, i have 6 options for you",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "I'd like it to be in Centre.",
+    "agent": "I would suggest midsummer house restaurant it has great food.",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Can you make me a reservation for Saturday please for 3 people?",
+    "agent": "What time would you like to dine on Saturday?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "We will be dining at 16:30. Please book a table for 3 on Saturday and provide the reference number. I also need a hotel in the same area.",
+    "agent": "Alright, I have your restaurant booking. Your reference number is: DHDB0H4V . What are you looking for in a hotel, so I can narrow down the choices?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Something in the same area as the restaurant. It should also be in that same price range.",
+    "agent": "I've got two expensive hotels in the area. Both have internet and parking. university arms hotel has 4 stars. Does that meet your needs?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Yes, that should be perfect thank you.",
+    "agent": "Would you like me to book you a room? If so, i will need how many people and nights you will be staying and on what day.",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "I would like a room for three people, just for Saturday night.",
+    "agent": "The booking was successful I have a reference number and the hotel number for you.",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Can I have the postcode and hotel type, please?",
+    "agent": "it is the type of a hotel. its post code is cb21ad. anything else?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "I also need a taxi between the hotel and the restaurant.",
+    "agent": "I will look a taxi up for you.",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Thank you very much! Can you please make sure that it arrives at the restaurant by the time of my reservation?",
+    "agent": "A grey toyota will be waiting to pick you up, if you have any further questions the contact number is 07137847685.",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Thanks so much!",
+    "agent": "Can I help you with anything else today?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "No, that will be all. Thank you!",
+    "agent": "Thanks for using our service, good day!",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Thanks for all the help.",
+    "agent": "Anytime, were here to help. Have a good day!",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "I need a taxi to don pasquale pizzeria.",
+    "agent": "When would you like to arrive?",
+    "domain": "taxi"
+  },
+  {
+    "customer": "I would like to arrive at one o'clock p.m. because I am meeting my husband there when he goes on his lunch break.",
+    "agent": "Ok, where are you departing from?",
+    "domain": "taxi"
+  },
+  {
+    "customer": "I will be departing from finches bed and breakfast.",
+    "agent": "Alright. I have a white honda for you.",
+    "domain": "taxi"
+  },
+  {
+    "customer": "Great, thanks. Is there a contact number for the driver by any chance?",
+    "agent": "That number is 07303450247.",
+    "domain": "taxi"
+  },
+  {
+    "customer": "Thank you very much. Will they be contacting me?",
+    "agent": "They will only contact you if they cannot find you. Thank you.",
+    "domain": "taxi"
+  },
+  {
+    "customer": "Thank you I will be watching the white honda then.",
+    "agent": "Sounds good. Have a great night!",
+    "domain": "taxi"
+  },
+  {
+    "customer": "I am planning a trip in Cambridge.",
+    "agent": "I am glad that you are visiting, but I cannot help you until you give me something to search for?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I'm looking for a train from Cambridge to Leicester on Monday.",
+    "agent": "We have quite a few trains available that day. Is there any time you would like to depart or arrive by?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I need to leave after 21:45",
+    "agent": "TR2919 is leaving at 22:21, would that work?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Yes, could you book me 2 tickets and get me a reference number?",
+    "agent": "Absolutely. I have booked two tickets for TR2919 at a total fee of 75.59 GBP. Your reference number is 8BG1O6W0 . Is there anything else I can assist you with?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Yes, i also need a hotel with free wi-fi. I do not mind if it is expensive.",
+    "agent": "how about allenbell? it looks lovely",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "does it have free parking?",
+    "agent": "allenbell has free parking. Should I book it?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Yes, I need it for Thursday. 2 people 4 nights.",
+    "agent": "your all set! Reference # is DQ0Z16N7 . Anything else I can help you with today?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "That is all I need.",
+    "agent": "Have a great day!",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Hi, I am trying to find the police station that's closest to my location please.",
+    "agent": "The nearest police station is in Parkside, Cambridge, CB11JG",
+    "domain": "unknown"
+  },
+  {
+    "customer": "Thanks, what is their phone number?",
+    "agent": "Telephone : 01223358966 there you go",
+    "domain": "unknown"
+  },
+  {
+    "customer": "Thank you, that is all I need today.",
+    "agent": "Best of luck with everything and enjoy your day.",
+    "domain": "unknown"
+  },
+  {
+    "customer": "I live in the centre of town and want to see if I can find a reasonable room for my parents to stay while they are visiting.",
+    "agent": "How about the Alexander bed and breakfast in the centre? It is a cheap 4 star guesthouse with free internet and wifi.",
+    "domain": "hotel"
+  },
+  {
+    "customer": "That sounds like it might work. Could you check availability for two people this weekend?",
+    "agent": "What day are they arriving, and how many nights are they staying?",
+    "domain": "hotel"
+  },
+  {
+    "customer": "I am unsure at this time.",
+    "agent": "Okay, would you like some more information about that hotel?",
+    "domain": "hotel"
+  },
+  {
+    "customer": "Can you tell me what the address is?",
+    "agent": "The address is 56 saint barnabas road.",
+    "domain": "hotel"
+  },
+  {
+    "customer": "Does this place include free parking?",
+    "agent": "The alexander bed and breakfast is a cheap, 4 star guesthouse in the centre area, It has wifi and parking. Does this fit your needs?",
+    "domain": "hotel"
+  },
+  {
+    "customer": "You have been very helpful. I have everything I need, thanks. Bye",
+    "agent": "I am glad to help. Have a nice day. Bye.",
+    "domain": "hotel"
+  },
+  {
+    "customer": "I am looking for information in Cambridge. I need a place to dine.",
+    "agent": "Sure, do you have a type of food you are wanting?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Crossover food would be perfect.",
+    "agent": "Unfortunately, there aren't any crossover restaurants in Cambridge. Is there something else you'd like to try?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Is there a gastropub in Centre?",
+    "agent": "Yes, I have two that are expensive and one that is moderately priced. Do you have a preference?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Let's go with the moderately priced option. Can I please have the phone number?",
+    "agent": "In the moderate price range, I have one place. It's called the Cow Pizza Kitchen and Bar. It's located on Corn Exchange Street. Do you need a reservation?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Not right now, but I am looking for a place to stay. Are there any 5-star accommodations in Cambridge?",
+    "agent": "I'm sorry, there are no 5-star accommodations anywhere in Cambridge. There are many 4-star options. Would you like to try one of those?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Do you have one with free parking",
+    "agent": "Yes the allenbell does.",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Is the allenbell a guesthouse?",
+    "agent": "Yes, it is a guesthouse. It's located at 517a Coldham Lane. Would you like me to book this for you?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "No thank you that will be all",
+    "agent": "Is there anything further that I can assist you with today?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Yes, I'll need a taxi from the restaurant to the hotel. I want to leave the restaurant by 18:30.",
+    "agent": "Sure. I booked a black BMW for you. Contact number : 07568490583",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Thank you so much.",
+    "agent": "You're very welcome! Is there anything else i can help you with?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "No thank you! Thanks for your help! Bye!",
+    "agent": "excellent, have a great day!",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "I really need to get out of Cambridge! Can you find me a train to Leicester? Sometime after 08:45 because I like to sleep in.",
+    "agent": "I would be happy to help with your request, what day will you be leaving?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I'll be leaving this place on Saturday.",
+    "agent": "What time would you like to arrive by?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "It does not matter.",
+    "agent": "There is a train that leaves at 9:21 and arrive in Leiester at 11:06. Would you like me to book it for you?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "No thank you. What's the cost of the ticket?",
+    "agent": "The ticket price is 30.24 pounds. Can I be of further assistance?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I also need the travel time and arrival time please.",
+    "agent": "arrival time is 11:06 and travel time is 105 minutes",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I'm also looking for a particular hotel. Its name is called cityroomz.",
+    "agent": "Sure, what kind of information do you need?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I'd like to to book it for 8 people and 4 nights starting from tuesday",
+    "agent": "I have booked a room for 8 for 4 nights beginning on Tuesday. Your reference number is SY5AJ8CL . Is there anything else I can help you with today?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Not at this time. Thank you.",
+    "agent": "Have a fantastic day, goodbye.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Hello, I need information on the parkside police station.",
+    "agent": "The phone number for Parkside Police Station is 01223358966, address Parkside, Cambridge, CB11JG.",
+    "domain": "unknown"
+  },
+  {
+    "customer": "amazing, thanks for your help",
+    "agent": "Do you want me to call 911?",
+    "domain": "unknown"
+  },
+  {
+    "customer": "No, that's ok. I've got it. Thanks again.",
+    "agent": "Let us know if you need more help.",
+    "domain": "unknown"
+  },
+  {
+    "customer": "I would like to find a cheap hotel to stay at where there is free parking. Do you have any suggestions?",
+    "agent": "The cambridge belfry fits the bill, would you like me to book you a room?",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Do they have free parking? are they rated 3 stars?",
+    "agent": "Yes, they do have free parking and they have 4 stars.",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Did you have something that fits with 3 stars?",
+    "agent": "I hovw no listing for a 3 star hotel,would you like too try another area ?",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "What about a 4 star hotel?",
+    "agent": "The Cambridge Belfry is a 4 star hotel in the cheap price range and is on the west side. They offer free Wifi and parking. Would you like a reservation?",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Yes,please book for 5 people for 5 nights starting on Thursday.",
+    "agent": "I am unable to book for Tuesday.",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "I would like to book for Thursday, not Tuesday.",
+    "agent": "I am sorry, I can't make that reservation either.",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Is Monday available?",
+    "agent": "As it turns out, Thursday just opened up. I was able to book it for you, here is your reference number, UGU8T7UB .",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Thanks! Can you also help me find a college to visit in town?",
+    "agent": "There are 18 options. Was there a part of town you would like to visit?",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Can you suggest one for me?",
+    "agent": "I would recommend christ's college in Saint Andrew's street in the centre of town.",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "What is the entrance fee and postcode there?",
+    "agent": "Entry is free. The postcode is cb23bu. May I help with anything else?",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "Thank you so much. Good bye",
+    "agent": "Okay, goodbye and enjoy your time in town",
+    "domain": "attraction, hotel"
+  },
+  {
+    "customer": "I am looking for a place to go in the centre, of type multiple sports.",
+    "agent": "Unfortunately, there is not attraction type with multiple sports in the centre areat.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Is there a nightclub located in the centre instead then?",
+    "agent": "There are 5 nightclubs in the centre. Would you like me to send you a list with their address and price information?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "No, I just need the phone number and entrance fee for each of them.",
+    "agent": "Ballare 5 pounds, phone 01223364222. club salsa 5 pounds, phone 07782218745. kambar 5 pounds, phone 01223842725. soul tree nightclub 4 pounds, phone 01223477900. the fez club 5 pounds, phone 01223519224",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Thank you I also need a train going to Cambridge leaving after 17:00",
+    "agent": "There are a lot of trains then, can you tell me where you are departing from and how many tickets you need?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "I will be departing from Bishops Stortford on Sunday.",
+    "agent": "TR5298 leaves at 17:29 and arrives by 18:07. Can I book you for this train?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "No, that's all I needed. Thank you!",
+    "agent": "Thank you, enjoy your visit!",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "I am looking for a 4 star place to stay.",
+    "agent": "What area would you like to stay in?",
+    "domain": "hotel"
+  },
+  {
+    "customer": "I'd like it to be in the north, and to be a guesthouse.",
+    "agent": "Great, there are 4 options for you here. I personally recommend avalon. Would you like to book?",
+    "domain": "hotel"
+  },
+  {
+    "customer": "Yes, please book it for 5 people and 5 nights starting from wednesday.",
+    "agent": "Your booking was successful. Reference number is : YB23KVSX . Is there anything else I can help you with?",
+    "domain": "hotel"
+  },
+  {
+    "customer": "No that is all. Thanks for your help!",
+    "agent": "You're welcome and thanks for using our help desk. Goodbye.",
+    "domain": "hotel"
+  },
+  {
+    "customer": "I'm looking for a place to eat. I would like it to be an expensive restaurant in the centre.",
+    "agent": "I found 33 expensive restaurants in the centre. What type of cuisine would you like?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "I'm looking for a restaurant with mediterranean food.",
+    "agent": "I have found two restaurants. One is La mimosa, and the other is Shiraz restaurant, would you like me to book one for you?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Please book the One is La mimosa",
+    "agent": "Can I please get the number of people dining,day,and time please.",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Yes, it's for 8 people. 16:45 on Monday. I would like the reference number, if it is available.",
+    "agent": "That wasn't available. Shall I try the Shiraz Restaurant?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Yes please try the Shiraz Restaurant.",
+    "agent": "You've got a table for Monday at Shiraz Restaurant. Your reference number is NS7MCM5B . Can I help with anything else today?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "That will be all. Thank you very much.",
+    "agent": "You are welcome. Enjoy your stay in Cambridge.",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "I would like to find out information about a hotel called Warkworth House.",
+    "agent": "Warkworth house is a guesthouse in the east area. It is moderate pricing with 4 stars. It offers free parking and internet. Would you like a reservation?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Yes please. It'll be for 4 nights.",
+    "agent": "I will go ahead and book your room.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Thank you. Can I get a reference number for the booking?",
+    "agent": "In order to book, can you tell me the number of guests, number of nights and the day of the week you want to start your stay?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I need to book it to 2 people for 4 nights starting from wednesday.",
+    "agent": "Okay the booking was successful. The reference number is HZ6B38TH .",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I'm also looking for a train. I'll be traveling back to Broxbourne on Friday.",
+    "agent": "Will you be leaving from Cambridge.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "yes i will be leaving from Cambridge.",
+    "agent": "What time would you like to leave around?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I would like to leave after 10:30.",
+    "agent": "TR7372 leaves Cambridge at 11:01 and arrives at broxbourne by 12:01, would that train work for you?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Yes that will work. I need to book it for 2 people.",
+    "agent": "i have booked that for you. your reference number is xhrx4ig7 .",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Can you find me a expensive cafe to eat at once i get off the train?",
+    "agent": "What type of food would you like?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I actually don't need a place to eat. Thank you, that is all.",
+    "agent": "To be clear do you need me to fine you a place to eat?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "That is helpful.Thanks",
+    "agent": "I'm confused. Should I look for a restaurant?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "No, I'm sorry. That's all for now. Thank you for all your help.",
+    "agent": "Thank you for using this service good bye",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I need a hotel with free wifi and free parking, thank you",
+    "agent": "Allenbell is cheap and has free internet.",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "I'm looking for something in the moderate price range actually.",
+    "agent": "Archway House is a moderately priced 4 star hotel in the North. Would you like to make a reservation?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Yes please book the Archway House.",
+    "agent": "I'd be happy to book for you. How many people will be staying, what is your arrival day, and how many nights are you staying?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "I will be arriving on tuesday and I need to book the room for four nights for three people.",
+    "agent": "Ok. I've booked that guesthouse for you. Your reference number is YBT4JRTR . Can I help with anything else?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Yes, I would also l like to find a splendid, moderately-priced place to dine in the centre. That would be just wonderful if you could help me out with that!",
+    "agent": "There are several moderately priced restaurant in the centre area. Would you like a certain type of food?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "I'd like an Italian restaurant, please.",
+    "agent": "Pizza express Fen Ditton would be perfect for you guys then! Would you like more information or for me to book that for you?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Yes, just give me the address please.",
+    "agent": "Pizza Express Fen Ditton is located at Jesus Lane Fen Ditton. Is there anything else I can help you with?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Yes. I would like to leave the restaurant by 11:15 and I would like to book a taxi to commute between the hotel and the restaurant.",
+    "agent": "Not a problem! I booked a taxi to depart the restaurant by 11:15. The car type is a blue skoda and the contact number is 07621131070.",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Thank you very much! That's all I need today!",
+    "agent": "You are very welcome. Have a great day.",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Hi, I need a moderate price range restaurant in the centre of town.",
+    "agent": "There are 21 restaurants that are moderately priced in the centre of town. Do you have a food preference?",
+    "domain": "restaurant, taxi, attraction"
+  },
+  {
+    "customer": "British or European would be fine. May I book a table for 2 at 16:00 on a Wednesday and get a reference number please?",
+    "agent": "The oak bistro is a British restaurant in the centre area, in the moderate price range. Would you like to book this restaurant?",
+    "domain": "restaurant, taxi, attraction"
+  },
+  {
+    "customer": "Yes. The booking should be for 2 on wednesday at 16:00. Could I also get a reference number?",
+    "agent": "Alright, you're all booked! Your reference number is YWEKSO7H . Is there anything else I can help you with?",
+    "domain": "restaurant, taxi, attraction"
+  },
+  {
+    "customer": "I'm also looking for a place to visit within the same area as the restaurant. Do you have any recommendations?",
+    "agent": "We have parks, boats, museums, and many other interesting things to do. What strikes your fancy?",
+    "domain": "restaurant, taxi, attraction"
+  },
+  {
+    "customer": "An art museum near the restaurant sounds nice. How much is the admission price?",
+    "agent": "The Cambridge Contemporary Art Museum is fantastic, and it's free. Would you like more information?",
+    "domain": "restaurant, taxi, attraction"
+  },
+  {
+    "customer": "I will need a taxi to take me from the museum to the restaurant. Obviously it needs to get me there before my reservation.",
+    "agent": "sure! expect a grey toyota and call 07319086162 to contact your taxi",
+    "domain": "restaurant, taxi, attraction"
+  },
+  {
+    "customer": "thank you, that is all I need.",
+    "agent": "You are welcome, please enjoy your time in Cambridge and if there's anything else we can assist you with let us know!",
+    "domain": "restaurant, taxi, attraction"
+  },
+  {
+    "customer": "We will be on the west side of town and would like to find a place to eat while there.",
+    "agent": "What type of cuisine would you be looking for?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I want some Scottish food.",
+    "agent": "There are none in the area. Another type or area perhaps?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Yeah, can you check the south please?",
+    "agent": "There are no restaurants in that area.",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "What a bummer. Find me a restaurant that serves British food on the West please.",
+    "agent": "There are 3 restaurants in that area that serve British food. Is there a particular price range your looking for?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "The expensive range please. I will need their phone number and address. Also, I am looking for a train departing from Cambridge on Saturday.",
+    "agent": "Travellers Rest is located at Huntingdon Road City Centre. The phone number is 01223276182. Where are you traveling to on Sunday?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I need to get to london liverpool street by 13:00.",
+    "agent": "I would suggest train TR0995, it leaves at 09:59 and will get you to your destination by 11:27. Would you like me to book that for you?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "No need to book. But, can I please get the price of the ticket?",
+    "agent": "the price for the ticket is 13.28 pounds",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Thanks so much. That will be all the information I need today. Bye.",
+    "agent": "Glad I could help, Have a great day!",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I am planning a trip in Cambridge",
+    "agent": "What area in cambridge would you like to stay?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I'm actually looking to book a specific hotel. It is called the Alpha-Milton Guest House.",
+    "agent": "Okay, can you tell me how many people are staying, how many days you want to stay and when you begin your stay, please?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I'd like to start my stay on Wednesday, it will be for two nights, and it will be 6 people.",
+    "agent": "Ok, so you are all booked. Reference number is NM7IWBOC .",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Thanks so much. I also need a train to arrive in Peterborough by 16:45.",
+    "agent": "Would you like to take the TR8327 on Friday, it arrives at 16:24?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I just want to verify that train leaves from Cambridge correct? If so, can you book it for 6 people and provide the reference number.",
+    "agent": "Yes, that is correct. I have booked it for you, the reference number is IBM6BL8X and will be leaving at 15:34. Is there anything else I can help you with?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "No thank you. Goodbye.",
+    "agent": "Alright, have a wonderful visit in Cambridge!",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I am traveling to Cambridge and excited about seeing location attractions. Could you help me find a place to go, like a college?",
+    "agent": "Certainly. I have many available. Is there a particular area you are looking in? I have several in the west and centre.",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Can you give me the entrance fee for one of the colleges in the centre?",
+    "agent": "Corpus christi is 2 pounds, which is in centre.",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "I'm also looking for a hotel in the centre. I don't want to stay in a guesthouse. It needs to be a hotel.",
+    "agent": "I can book you at the university arms hotel. It has a 4 star rating, free parking and wifi. Does this interest you?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Yes. That would be great.",
+    "agent": "What will be the first day you will stay and how long will you be staying?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "I want to stay for 5 nights starting on Tuesday.",
+    "agent": "I'm sorry but you'll have to book another day or a shorter stay. When would you like to stay?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Can you see if they have just 1 night available?",
+    "agent": "Your booking was successful with a reference number of S1HTVV32 . Is there anything else I can do for you today?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "I need a taxi please between the 2 places. I want to leave the attraction by 2:30.",
+    "agent": "Booking completed! Please look out for a Grey BMW, their contact number is 07130839627. Is there anything else I can help with?",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "Awesome, thanks! I think that takes care of everything I needed.",
+    "agent": "Okay great please enjoy your stay and don't hesitate to call us back if you need anything else.",
+    "domain": "taxi, attraction, hotel"
+  },
+  {
+    "customer": "I'm looking for a hotel that includes free wifi and free parking.",
+    "agent": "There are definitely lots of places that provide complimentary parking and wifi. Do you prefer any particular part of town, or are you looking for a certain price range?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I would like a hotel in the centre and it should be in the cheap price range.",
+    "agent": "I don't have any hotels that meet your criteria but I do have two guesthouses available? Would that be okay?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Yes, that would be fine. What are the names of the two guesthouses?",
+    "agent": "One id alexander bed and breakfast and the other is el shaddai.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "What star ratings are they?",
+    "agent": "Alexander bed and breakfast is 4 stars and el shaddai is 0 stars.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Okay may I please have the phone number for Alexander bed and breakfast?",
+    "agent": "Of course! The telephone number for Alexander Bed and Breakfast is 01223525725.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Thank you! I'm also looking for a train for saturday.",
+    "agent": "Okay. Would you like to narrow it down by departure site, destination, or arrival time?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I need to leave Cambridge on Saturday, please.",
+    "agent": "OK. Where are you heading, and at what time?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "i am going to ely and it should leave by 18:00",
+    "agent": "The earliest train leaves at 19:50 and the last one leaves at 23:50. Which one could you like to take?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Please pick one that meets my requirements.",
+    "agent": "Then, that would be TR7349 departing at 19:50 and arriving in Ely by 20:07. Do you need any tickets?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "No, Make sure you get travel time, price, and train ID",
+    "agent": "Train ID is the one that was referenced earlier, price is 3.52 pounds per person, it is only a 17 minute trip. Is there anything else that i can do?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "No thank you.",
+    "agent": "Do you need any further assistance with anything else?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "No thank you that will be all",
+    "agent": "You are welcome. Thank you for contacting Cambridge TownInfo centre. Goodbye.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Let's find me an expensiove place to eat in the centre",
+    "agent": "sure i have 33 options for you",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "How about you pick one and reserve a table for 5 on sunday at 11:45, and I'll need that reference number too.",
+    "agent": "Sure! I've booked you at Fitzbillies at 11:45 on Sunday for 5. Your reference number is Y5EX13L7 . Is there anything else I can help you with?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Great can you also help me get a train? I'm looking to go to ely and arrive by 21:30",
+    "agent": "On what day will you be leaving?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I will be leaving on Monday",
+    "agent": "TR5484 leaves at 13:50 and costs 4.40 pounds. is that fine with you?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Yes, but i need to book four more people as well.",
+    "agent": "So I have 5 tickets booked. The reference number is YD9YNVV4 .",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "Thank you very much.",
+    "agent": "Thank you. Is there anything else?",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "No, that's all. Good bye",
+    "agent": "You're very welcome! Have a great day!",
+    "domain": "restaurant, train"
+  },
+  {
+    "customer": "I would like to eat in the Center of town at a expensive place.",
+    "agent": "For Town Centre, there are African, Asian Oriental, and British options. Which of these would you prefer?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "How about African? I'd like to book a table for 7 at 16:15 on Tuesday.",
+    "agent": "I have booked a table at bedouin African restaurant for 7 people at 16:15 tuesday. Your reference number is VAZCWIS6 . May I help with anything else?",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Nope that's all I needed! Thanks!",
+    "agent": "Okay great. Enjoy your dining experience.",
+    "domain": "restaurant"
+  },
+  {
+    "customer": "Can you help me find a place to stay that's four stars and has free wifi?",
+    "agent": "Twenty one accomodations meet your needs. What part of town are you planning to stay in?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "That doesn't matter as long as it's cheap.",
+    "agent": "There are 21 places in that criteria. What area of town? Or perhaps a need for free parking?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "It doesn't matter. Like I told you, it just needs to be a cheap 4 star place with free wifi.",
+    "agent": "The Alexander bed and breakfast is the best option.",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Okay I would like to make a booking for 5 people and 4 nights starting from wednesday.",
+    "agent": "Will you needing a reference number?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "Yes, of course.",
+    "agent": "Booking was successful. Reference number is : JVC5MSAV . anything else today?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I also need a train on Friday, departing after 9:00.",
+    "agent": "Ok. Where are you departing from?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "i am departing from cambridge",
+    "agent": "Where will you be traveling to?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I will be traveling to ely, no need to book, but i need the train number, travel time departure time and arrival time",
+    "agent": "Train TR8792 departs at 09:50 and will arrive in Ely at 10:07. The total travel time is 17 minutes. Anything more I can help with?",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "That is all. Thanks for your time.",
+    "agent": "Your welcome, have a great day!",
+    "domain": "train, hotel"
+  },
+  {
+    "customer": "I don't know if this is possible but can you please get me some information on the alexander bed and breakfast?",
+    "agent": "sure, i have their information. what would you like to know?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Ah, I just wanted to know it was still open. Could you book me a room?",
+    "agent": "Sure, what day would you like it for?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "3 nights starting from friday.",
+    "agent": "A reservation for 1 person?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "No, I would like it for 4 people.",
+    "agent": "Booking was successful. Reference number is : CRLJAWX3 .",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "I also need to find an Indian restaurant in the east please.",
+    "agent": "There are a few Indian restaurants in the east, do you have a price range you are trying to stick to?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "In the mid-range would be fine.",
+    "agent": "Rajmahal is a moderately priced Indian restaurant. How many people will be dining?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "4 of us Friday at 14:45 I need the reference number too.",
+    "agent": "Your table is reserved, reference #NKKOLWNU . Can I help you with anything else today?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Yes, I'd also like to book a taxi. I'd like to arrive at the restaurant by the booked time.",
+    "agent": "Where will you be departing from?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "I will be traveling between the hotel and restaurant.",
+    "agent": "What time would you like to travel?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "I would like to get to the restaurant by 14:45 please.",
+    "agent": "Booking completed! Booked car type : white honda Contact number : 07125482836",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Great, thanks so much, that's all I need! Have a great day!",
+    "agent": "You're welcome! Goodbye.",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "Can you find me a train from Cambridge to Leicester?",
+    "agent": "There are several what day and time do you want to leave or arrive?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "I'd like to leave on wednesday and should arrive by 13:00",
+    "agent": "The TR2176 leaves Cambridge at 09:21 and gets into Leicester at 11:06. Will that work for you?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "What is the price of that train?",
+    "agent": "The price is 37.80 pounds. Would you like to go ahead a book a seat?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Yes, I would like to book a seat on that train. Thank you.",
+    "agent": "Just to clarify, am I booking just one ticket or more?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "yes. also findme primavera's phone number",
+    "agent": "Booking was successful, the total fee is 37.79 GBP payable at the station . Reference number is : 2Z3LQ075 . What else did you need?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Thanks. I am also looking for the Primavera. It is an attraction.",
+    "agent": "yes its a very nice attraction.",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "Can I get their phone number please?",
+    "agent": "their phone number is 01223357708. can i help with something else?",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "No. That will be all. Thank you.",
+    "agent": "Thank you for contacting the Cambridge TownInfo centre. Goodbye",
+    "domain": "attraction, train"
+  },
+  {
+    "customer": "I need a place to eat that is expensive.",
+    "agent": "I've found 57 restaurants that match your request. Is there a particular area you'd like to dine in?",
+    "domain": "restaurant, taxi, hotel"
+  },
+  {
+    "customer": "In the centre, please.",
+    "agent": "There are 33 restaurants in that area, do you have a preference of the type of restaurant?",
+    "domain": "restaurant, taxi, hotel"
+  }
+]
