@@ -29,6 +29,7 @@
     <Content Include=".gitignore" />
     <Content Include="apikey.json" />
     <Content Include="memory_base.json" />
+    <Content Include="support_rag_dataset.json" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

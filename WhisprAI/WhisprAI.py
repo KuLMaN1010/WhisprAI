@@ -1,18 +1,43 @@
 ﻿import json
 import requests
+from difflib import SequenceMatcher
 
-# this is for loading API key from JSON file
+# Load API key
 with open("apikey.json", "r") as f:
     data = json.load(f)
     API_KEY = data["apikey"]
 
-with open("memory_base.json", "r") as f:
+# Load memory base
+with open("memory_base.json", "r", encoding="utf-8") as f:
     memory_items = json.load(f)
 
-# Loading RAG dataset
+# Load RAG dataset
 with open("support_rag_dataset.json", "r", encoding="utf-8") as f:
     rag_data = json.load(f)
 
+# Merge both into a common context list
+context_examples = []
+for entry in rag_data:
+    context_examples.append({
+        "source": "RAG",
+        "customer": entry["customer"],
+        "agent": entry["agent"],
+        "emotion": None,
+        "advice": None,
+        "tone": None,
+        "cue": None
+    })
+
+for entry in memory_items:
+    context_examples.append({
+        "source": "Memory",
+        "customer": entry["trigger"],
+        "agent": "",
+        "emotion": entry["emotion"],
+        "advice": entry["advice"],
+        "tone": entry["tone"],
+        "cue": entry["cue"]
+    })
 
 # STEP 1: Get the real access token
 iam_url = "https://iam.cloud.ibm.com/identity/token"
@@ -32,81 +57,69 @@ if iam_response.status_code != 200:
 
 access_token = iam_response.json()["access_token"]
 
-# STEP 2: Use token to call watsonx.ai
+# STEP 2: Prepare the AI call
 ai_url = "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2024-05-01"
 headers = {
     "Content-Type": "application/json",
     "Authorization": f"Bearer {access_token}"
 }
 
-# Whispr.AI memory base
-# Dynamically build memory base text for prompt
-memory_base_text = "\n".join([
-    f"""Trigger: "{item['trigger']}"
-Emotion: {item['emotion']}
-Advice: {item['advice']}
-Tone: {item['tone']}
-Cue: {item['cue']}\n""" for item in memory_items
-])
-
-from difflib import SequenceMatcher
-
-def find_best_match(user_input, rag_entries, top_n=1):
+# Utility function to find best match
+def find_best_match(user_input, context_entries, top_n=1):
     def similarity(a, b):
         return SequenceMatcher(None, a.lower(), b.lower()).ratio()
-    
-    scored = [
-        (entry, similarity(user_input, entry["customer"]))
-        for entry in rag_entries
-    ]
+    scored = [(entry, similarity(user_input, entry["customer"])) for entry in context_entries]
     scored.sort(key=lambda x: x[1], reverse=True)
     return [s[0] for s in scored[:top_n]]
-
 
 # User input
 print("🧠 Whispr.AI Coaching System")
 customer_message = input("Enter the customer message: ")
 agent_message = input("Enter the agent's reply: ")
 
-# Get most similar past case from RAG dataset
-best_match = find_best_match(customer_message, rag_data)[0]
+# Retrieve best context from either dataset
+best_context = find_best_match(customer_message, context_examples)[0]
 
-
-# Prompt to send to watsonx.ai
+# Construct the prompt
 prompt = f"""
 You are Whispr.AI — an AI mentor that coaches support agents during live conversations. You do not speak to customers; you just coach the agent.
 
-Below is a similar past case retrieved from support logs:
-Customer: "{best_match['customer']}"
-Agent: "{best_match['agent']}"
+Below is the most relevant support situation from your training data. Use it to understand both topic and emotional tone.
 
-Memory Base (coaching guide):
-{memory_base_text}
+Customer: \"{best_context['customer']}\"
+Agent: \"{best_context['agent']}\"
+Source: {best_context['source']}
+Emotion (if available): {best_context['emotion']}
+Advice (if available): {best_context['advice']}
+Tone (if available): {best_context['tone']}
 
-Now coach the agent in this new conversation:
-Customer: "{customer_message}"
-Agent: "{agent_message}"
+Now coach the agent for the following live conversation:
+Customer message: \"{customer_message}\"
+Agent's current reply: \"{agent_message}\"
 
-Your output must include:
-- Emotion detected
-- Matching coaching memory item
-- Agent mindset to adopt
-- Suggested tone
-- Coaching cue for next reply
+Instructions:
+- Use the example to understand context, tone, and advice
+- Write a new, emotionally appropriate coaching cue
+- Do not copy any existing cue
+
+Output format:
+- Emotion detected:
+- Matching example trigger:
+- Agent mindset to adopt:
+- Suggested tone:
+- Coaching cue for next reply:
 """
 
 # Payload
 payload = {
     "model_id": "ibm/granite-3-8b-instruct",
     "project_id": "30fac77c-eb4e-4742-9449-4815b0daeae6",
-    "input": prompt,  # ✅ this is your full prompt
+    "input": prompt,
     "parameters": {
         "decoding_method": "greedy",
         "max_new_tokens": 300
     }
 }
-
-
 
 # Final request to AI model
 response = requests.post(ai_url, headers=headers, json=payload)
