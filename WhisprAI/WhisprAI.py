@@ -9,6 +9,11 @@ with open("apikey.json", "r") as f:
 with open("memory_base.json", "r") as f:
     memory_items = json.load(f)
 
+# Loading RAG dataset
+with open("support_rag_dataset.json", "r", encoding="utf-8") as f:
+    rag_data = json.load(f)
+
+
 # STEP 1: Get the real access token
 iam_url = "https://iam.cloud.ibm.com/identity/token"
 iam_headers = {
@@ -44,24 +49,41 @@ Tone: {item['tone']}
 Cue: {item['cue']}\n""" for item in memory_items
 ])
 
+from difflib import SequenceMatcher
+
+def find_best_match(user_input, rag_entries, top_n=1):
+    def similarity(a, b):
+        return SequenceMatcher(None, a.lower(), b.lower()).ratio()
+    
+    scored = [
+        (entry, similarity(user_input, entry["customer"]))
+        for entry in rag_entries
+    ]
+    scored.sort(key=lambda x: x[1], reverse=True)
+    return [s[0] for s in scored[:top_n]]
+
 
 # User input
 print("🧠 Whispr.AI Coaching System")
 customer_message = input("Enter the customer message: ")
 agent_message = input("Enter the agent's reply: ")
 
-# Prompt to send
+# Get most similar past case from RAG dataset
+best_match = find_best_match(customer_message, rag_data)[0]
+
+
+# Prompt to send to watsonx.ai
 prompt = f"""
-You are Whispr.AI — an AI mentor that coaches support agents during live conversations. You do not speak to customers; you coach the agent.
+You are Whispr.AI — an AI mentor that coaches support agents during live conversations. You do not speak to customers; you just coach the agent.
 
-Below is a list of known customer frustration triggers and coaching guidance. From this list, pick only **one** memory item that most closely matches the customer's message in the conversation below.
+Below is a similar past case retrieved from support logs:
+Customer: "{best_match['customer']}"
+Agent: "{best_match['agent']}"
 
-Do not reference unrelated memory items. Do not guess multiple matches. Only return coaching based on the most relevant one.
-
-Memory Base:
+Memory Base (coaching guide):
 {memory_base_text}
 
-Conversation:
+Now coach the agent in this new conversation:
 Customer: "{customer_message}"
 Agent: "{agent_message}"
 
@@ -72,7 +94,6 @@ Your output must include:
 - Suggested tone
 - Coaching cue for next reply
 """
-
 
 # Payload
 payload = {

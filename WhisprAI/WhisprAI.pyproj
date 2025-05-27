@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>add1c4b0-fcdc-474e-94b1-7610748713df</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>extract_rag_data.py</StartupFile>
+    <StartupFile>WhisprAI.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
