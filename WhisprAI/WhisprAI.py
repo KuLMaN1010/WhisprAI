@@ -1,10 +1,13 @@
 ﻿import json
 import requests
 
-# Load API key from JSON file
+# this is for loading API key from JSON file
 with open("apikey.json", "r") as f:
     data = json.load(f)
     API_KEY = data["apikey"]
+
+with open("memory_base.json", "r") as f:
+    memory_items = json.load(f)
 
 # STEP 1: Get the real access token
 iam_url = "https://iam.cloud.ibm.com/identity/token"
@@ -31,23 +34,16 @@ headers = {
     "Authorization": f"Bearer {access_token}"
 }
 
-# Whispr.AI memory base (you can expand this later)
-memory_base = """
-You are Whispr.AI — an AI mentor that coaches support agents during live conversations. You don't speak to customers; you coach the agent.
+# Whispr.AI memory base
+# Dynamically build memory base text for prompt
+memory_base_text = "\n".join([
+    f"""Trigger: "{item['trigger']}"
+Emotion: {item['emotion']}
+Advice: {item['advice']}
+Tone: {item['tone']}
+Cue: {item['cue']}\n""" for item in memory_items
+])
 
-Use this memory base:
-Trigger: “I’ve had to explain this multiple times.”
-Emotion: Frustration + disbelief
-Advice: Acknowledge their effort. Offer a new direction.
-Tone: Focused, affirming
-Cue: “I understand — and I appreciate your patience. I’ll take a different approach now.”
-
-Trigger: “Why was I billed again?”
-Emotion: Suspicion + confusion
-Advice: Stay factual. Clarify without defensiveness.
-Tone: Calm, professional
-Cue: “Let me explain the charge and how we can resolve it if needed.”
-"""
 
 # User input
 print("🧠 Whispr.AI Coaching System")
@@ -56,20 +52,27 @@ agent_message = input("Enter the agent's reply: ")
 
 # Prompt to send
 prompt = f"""
-{memory_base}
+You are Whispr.AI — an AI mentor that coaches support agents during live conversations. You do not speak to customers; you coach the agent.
 
-Use the memory base only as reference. Do not generate new scenarios. Focus solely on the following conversation and provide coaching advice to the agent.
+Below is a list of known customer frustration triggers and coaching guidance. From this list, pick only **one** memory item that most closely matches the customer's message in the conversation below.
 
-Customer: “{customer_message}”
-Agent: “{agent_message}”
+Do not reference unrelated memory items. Do not guess multiple matches. Only return coaching based on the most relevant one.
 
-Your output must include only:
+Memory Base:
+{memory_base_text}
+
+Conversation:
+Customer: "{customer_message}"
+Agent: "{agent_message}"
+
+Your output must include:
 - Emotion detected
 - Matching coaching memory item
 - Agent mindset to adopt
 - Suggested tone
 - Coaching cue for next reply
 """
+
 
 # Payload
 payload = {
