@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>add1c4b0-fcdc-474e-94b1-7610748713df</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>WhisprAI.py</StartupFile>
+    <StartupFile>load_dataset.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="load_dataset.py" />
     <Compile Include="WhisprAI.py" />
   </ItemGroup>
   <ItemGroup>
