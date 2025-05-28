@@ -13,13 +13,15 @@ export default function WhisprAI() {
     setLoading(true);
     setResponse(null);
 
-    try {
-        const data = await getCoachingResponse(customer, agent);
-        setResponse(data);
-    } catch (err) {
-        setResponse({ error: "Failed to fetch coaching response." });
-    }
-
+    const res = await fetch("http://localhost:5000/api/coach", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+    },
+    body: JSON.stringify({ customer, agent }),
+  });
+    const data = await res.json();
+    setResponse(data);
     setLoading(false);
   };
 
