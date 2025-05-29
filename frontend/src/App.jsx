@@ -1,12 +1,7 @@
-import React from 'react';
-import WhisprAI from './WhisprAI';
+import WhisprChat from "./WhisprChat";
 
 function App() {
-  return (
-    <div className="App">
-      <WhisprAI />
-    </div>
-  );
+  return <WhisprChat />;
 }
 
 export default App;
