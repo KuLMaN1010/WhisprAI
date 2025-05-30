@@ -37,14 +37,14 @@ AI: IBM watsonx.ai with custom prompt templates
 
 1. Clone the repo
    
-2. Install dependencies
-   npm install
+2. Install dependencies like npm install, or any other tech that is not in your computer like React, Vite, etc.
 
 3. Go to terminal
 
-4.Start the backend (from /backend folder)
-   pip install -r requirements.txt
-   cd WhisprAI
+4. Start the backend (from /backend folder)
+   
+   pip install -r requirements.txt,
+   cd WhisprAI,
    python backend_api.py
 
 5. Run the frontend in another cmd (do not close them)
