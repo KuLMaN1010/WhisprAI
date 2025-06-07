@@ -1,4 +1,5 @@
 Whispr.AI – Real‑Time Agent Coach
+🏅 Hackathon Result: 2nd Place – IBM “Advance the Future of Customer Experience” (May 2025)
 
 
 
